@@ -6,7 +6,7 @@ Koyuki
 */
 
 body{
-	background-image:url('https://image.mnmmw.dpdns.org/file/AgACAgUAAyEGAATPlJBsAAMVahQ6zl8pNOUGhNtl-odnID_k09cAAlAUaxvIsaFUsc1MjfQ_S94BAAMCAAN3AAM7BA.png');//将此处替换为你自己的背景图api地址
+	background-image:url('https://api.bimg.cc/random?w=1920&h=1080&mkt=zh-CN');//将此处替换为你自己的背景图api地址
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-attachment: fixed;
