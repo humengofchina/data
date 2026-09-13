@@ -821,14 +821,17 @@ function renderHTML() {
 
     <!-- 4. 页脚：高一7班莘莘学子 (每行7人，69人纯文本矩阵) -->
     <div class="students-footer">
-      <div class="students-title">🎓 高一7班 · 莘莘学子 (共 69 人)</div>
+      <div class="students-title">🎓 高一7班 ·  共 69 人</div>
       <div class="students-grid" id="studentsContainer"></div>
     </div>
 
     <!-- 5. 页脚最底部居中跳转其他网站文本链接 -->
     <div class="footer-links-wrap">
-      <a class="footer-link" href="https://v.ssgz.site" target="_blank" rel="noopener noreferrer">
-        🌐 前往导航站 / 查看更多精彩资源 ↗
+      <a class="footer-link" href="https://github.com/humengofchina/data/blob/main/%E7%8F%AD%E7%BA%A7%E4%B8%BB%E9%A1%B5.js" target="_blank" rel="noopener noreferrer">
+        开放源代码 ↗
+      </a>
+        <a class="footer-link" href="https://name.aihuihui.de5.net/" target="_blank" rel="noopener noreferrer">
+        高一7班随机抽签 ↗
       </a>
     </div>
   </div>
