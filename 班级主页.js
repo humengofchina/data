@@ -1,7 +1,7 @@
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
-    const ADMIN_PASSWORD = env.ADMIN_PASSWORD || "286076062";
+    const ADMIN_PASSWORD = env.ADMIN_PASSWORD || "";
 
     // 1. 静态主页
     if (request.method === "GET" && url.pathname === "/") {
